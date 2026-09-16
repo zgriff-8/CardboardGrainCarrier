@@ -1,6 +1,6 @@
 # **Assignment 3 \- Homework & Deliverables**
 
-**PROJECT 1 | Team Members:** Ava Owen, Qingyuan Yu, 
+**PROJECT 1 | Team Members:** Ava Owen, Qingyuan Yu, Zach Griffith
 
 *Repository Link:* [https://github.com/zgriff-8/CardboardGrainCarrier/tree/main]
 
