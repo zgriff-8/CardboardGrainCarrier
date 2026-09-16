@@ -42,16 +42,16 @@
 
 *Each team member claims ONE of the starred concepts from the whiteboard to evaluate against the Phase 0/1 constraints. Ensure your pitches explain the mechanics of the geometric joints.*
 
-### **Concept 1 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
+### **Concept 1 (Evaluator: Ava)**
 
-* **Concept Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Concept Name:** Bookbag 
 * **The Pitch (1-2 sentences):** What is it and how does it manage the 25kg shifting load? *(Use Copilot to refine your phrasing)*  
-  * *Answer:*  
+  * *Answer: The bookbag concept is taking the general idea of a bookbag but modifying it so it will work with cardboard as the material and hold the needed  weight. The general concept is to carry the bag of grain on a person's back so it's more efficient for a person to carry, and the weight will be distributed on the person's back.
 * **Constraint Checklist:**  
-  * Cardboard ONLY (no glue/tape/metal)? **\[ Y / N \]**  
-  * Operable by BOTH 1 AND 2 people? **\[ Y / N \]**  
-  * What specific fastener-free geometry handles the connection? (e.g., interlocking tabs, friction-fit, precise folds): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-  * What is the biggest risk for failure during the dynamic carry? (creasing, delamination, joint blowout): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  * Cardboard ONLY (no glue/tape/metal)? **\[ Y ]**  
+  * Operable by BOTH 1 AND 2 people? **\[ Y ]**  
+  * What specific fastener-free geometry handles the connection? (e.g., interlocking tabs, friction-fit, precise folds): This concept will likely use a cinch webbing belt concept like a normal bookbag. 
+  * What is the biggest risk for failure during the dynamic carry? (creasing, delamination, joint blowout): Biggest risk failure possibilty can be the cinch webbing belt concept coming undone.
 
 ### **Concept 2 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
 
