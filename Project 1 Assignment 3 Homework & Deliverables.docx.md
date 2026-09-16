@@ -53,16 +53,16 @@
   * What specific fastener-free geometry handles the connection? (e.g., interlocking tabs, friction-fit, precise folds): This concept will likely use a cinch webbing belt concept like a normal bookbag. 
   * What is the biggest risk for failure during the dynamic carry? (creasing, delamination, joint blowout): Biggest risk failure possibilty can be the cinch webbing belt concept coming undone.
 
-### **Concept 2 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
+### **Concept 2 (Evaluator: Zach Griffith)**
 
-* **Concept Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Concept Name:** Neck Yoke  
 * **The Pitch (1-2 sentences):** What is it and how does it manage the 25kg shifting load?  
-  * *Answer:*  
+  * *Answer:*  The neck yoke takes the idea of old farm equipment which distributes weight to both sides of the neck and we put the load on one side a padded neck portion a handle on the load and a strap on the other side to balance out the weight.
 * **Constraint Checklist:**  
-  * Cardboard ONLY (no glue/tape/metal)? **\[ Y / N \]**  
-  * Operable by BOTH 1 AND 2 people? **\[ Y / N \]**  
-  * What specific fastener-free geometry handles the connection?: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-  * What is the biggest risk for failure during the dynamic carry?: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  * Cardboard ONLY (no glue/tape/metal)? **\[ Y ]**  
+  * Operable by BOTH 1 AND 2 people? **\[ Y ]**  
+  * What specific fastener-free geometry handles the connection?: Likely will use interlocking tabs since it will have multiple parts needing to be put together  
+  * What is the biggest risk for failure during the dynamic carry?: The biggest risk is the cardboard bending under the load so we will need to reinforce very well in strategic places
 
 ### **Concept 3 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
 
