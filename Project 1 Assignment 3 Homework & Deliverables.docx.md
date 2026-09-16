@@ -104,16 +104,16 @@
   * What specific fastener-free geometry handles the connection?: Mortise and tenon structure
   * What is the biggest risk for failure during the dynamic carry?: The connection is too loose or not secure. 
 
-### **Concept 4 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
+### **Concept 4 (Evaluator: Matthew Albert)**
 
-* **Concept Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Concept Name:** Basket  
 * **The Pitch (1-2 sentences):** What is it and how does it manage the 25kg shifting load?  
-  * *Answer:*  
+  * *Answer:*  We would create a cardboard basket that is big enough and strong enough to carry the 25kg bag of grain. In order to make it sturdy enough to carry the grain, we would weave cardboard together.
 * **Constraint Checklist:**  
-  * Cardboard ONLY (no glue/tape/metal)? **\[ Y / N \]**  
-  * Operable by BOTH 1 AND 2 people? **\[ Y / N \]**  
-  * What specific fastener-free geometry handles the connection?: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-  * What is the biggest risk for failure during the dynamic carry?: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  * Cardboard ONLY (no glue/tape/metal)? **\[ Y ]**  
+  * Operable by BOTH 1 AND 2 people? **\[ Y ]**  
+  * What specific fastener-free geometry handles the connection?: We would cut strips of cardboard and weave them together to add support.  
+  * What is the biggest risk for failure during the dynamic carry?: The biggest problem is if the cardboard is not strong enough to support the 25kg bag of grain.
 
 ### **Concept 5 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_) *Only if 5-person team***
 
