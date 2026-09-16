@@ -2,7 +2,7 @@
 
 **PROJECT 1 | Team Members:** Ava Owen, Qingyuan Yu, 
 
-*Repository Link:* [https://github.com/owena6-blip/EGR103-Project-1](https://github.com/owena6-blip/EGR103-Project-1)
+*Repository Link:* [https://github.com/zgriff-8/CardboardGrainCarrier/tree/main](https://github.com/zgriff-8/CardboardGrainCarrier/tree/main)
 
 *Coordinate with your team using your new GitHub repository to complete this document before the next class.*
 
