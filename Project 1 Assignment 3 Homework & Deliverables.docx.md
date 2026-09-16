@@ -101,8 +101,8 @@
 * **Constraint Checklist:**  
   * Cardboard ONLY (no glue/tape/metal)? **\[ Y]**  
   * Operable by BOTH 1 AND 2 people? **\[ Y]**  
-  * What specific fastener-free geometry handles the connection?: Mortise and tenon structure 
-  * What is the biggest risk for failure during the dynamic carry?: The connection is too loose. 
+  * What specific fastener-free geometry handles the connection?: Mortise and tenon structure
+  * What is the biggest risk for failure during the dynamic carry?: The connection is too loose or not secure. 
 
 ### **Concept 4 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
 
