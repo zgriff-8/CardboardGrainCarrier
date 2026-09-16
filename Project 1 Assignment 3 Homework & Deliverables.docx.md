@@ -36,7 +36,36 @@
 * **Fallback:** If Copilot struggles to read the handwriting, manually construct your map using the visual editor at [MermaidChart.com](https://mermaidchart.com), then click "View Code" to copy it.  
 * **Result:** Paste the Mermaid code below and preview it in VSCode using your Markdown/Mermaid extension.
 
-\[Paste your code here\]
+\[flowchart TD
+  CGC["CGC: Cardboard Grain Carrier"]
+
+  CGC --> Reinforced["★ Reinforced"]
+  CGC --> Protection["★ Protection"]
+  CGC --> Intertwined["★ Intertwined"]
+  CGC --> Wound["Wound"]
+  CGC --> Leverage["Leverage"]
+
+  Reinforced --> StrongMaterial["Strong material"]
+  StrongMaterial --> Corrugated["Corrugated cardboard"]
+  Reinforced --> NeckYoke["★ Neck yoke"]
+  NeckYoke --> ArmStrap["Strap across arm"]
+  NeckYoke --> Handle["Handle"]
+
+  Protection --> WeightDistribution["Weight distribution"]
+  Protection --> Bag["Bag"]
+  Bag --> Slits["Slits"]
+  Bag --> Tabs["Tabs"]
+
+  Intertwined --> InterlockingMechanism["Interlocking mechanism"]
+  InterlockingMechanism --> PreciseFolds["Precise folds"]
+  InterlockingMechanism --> FrictionFit["Friction fit"]
+
+  Wound --> EaseOfCarrying["Ease of carrying"]
+  Leverage --> EaseOfCarrying
+  WeightDistribution --> EaseOfCarrying
+
+  classDef starred fill:#fff2a8,stroke:#7a5c00,stroke-width:2px;
+  class Reinforced,Protection,Intertwined,NeckYoke starred;]
 
 ## **Section 2: Rapid Individual Concept Evaluations (8 Points)**
 
