@@ -2,7 +2,7 @@
 
 **PROJECT 1 | Team Members:** Ava Owen, Qingyuan Yu, 
 
-*Repository Link:* [https://github.com/zgriff-8/CardboardGrainCarrier/tree/main](https://github.com/zgriff-8/CardboardGrainCarrier/tree/main)
+*Repository Link:* [https://github.com/zgriff-8/CardboardGrainCarrier/tree/main]
 
 *Coordinate with your team using your new GitHub repository to complete this document before the next class.*
 
