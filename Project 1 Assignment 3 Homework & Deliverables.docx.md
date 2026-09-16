@@ -93,9 +93,9 @@
   * What specific fastener-free geometry handles the connection?: Likely will use interlocking tabs since it will have multiple parts needing to be put together  
   * What is the biggest risk for failure during the dynamic carry?: The biggest risk is the cardboard bending under the load so we will need to reinforce very well in strategic places
 
-### **Concept 3 (Evaluator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)**
+### **Concept 3 (Evaluator: Qingyuan Yu)**
 
-* **Concept Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Concept Name:** Handle 
 * **The Pitch (1-2 sentences):** What is it and how does it manage the 25kg shifting load?  
   * *Answer:*  
 * **Constraint Checklist:**  
